@@ -132,7 +132,7 @@ verification_reports 目录中的所有验证报告也已添加CC BY 4.0版权�
 
 **作者**: 王斌  
 **邮箱**: wang.bin@foxmail.com  
-**项目主页**: [GitHub Repositories]
+**项目主页**: [Theory-Documentation](https://github.com/dpsnet/Theory-Documentation)
 ```
 
 ---
@@ -155,7 +155,7 @@ verification_reports 目录中的所有验证报告也已添加CC BY 4.0版权�
 
 - **作者**: 王斌
 - **邮箱**: wang.bin@foxmail.com
-- **项目主页**: [GitHub Repositories]
+- **项目主页**: [Theory-Documentation](https://github.com/dpsnet/Theory-Documentation)
 
 ---
 
